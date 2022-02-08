@@ -13,6 +13,7 @@ Swift 5.0 | Xcode12.4
 
 ### 使用フレームワーク
 - uikit
+- storyboard
 
 ### 機能
 - 電卓としての機能
