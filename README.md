@@ -10,3 +10,10 @@ Swift | Xcode
 Swift 5.0 | Xcode12.4
 
 ![calculator.image](https://user-images.githubusercontent.com/98800328/152930300-0ca3277d-71fc-43a4-a0eb-47048af511ab.png)
+
+### 使用フレームワーク
+- uikit
+
+### 機能
+- 電卓としての機能
+  - +,-,×等
